@@ -1,8 +1,6 @@
 C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
 C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
 C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
-C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -31,3 +29,14 @@ C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\runt
 C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.Data.dll
 C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.Data.pdb
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lucas\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache

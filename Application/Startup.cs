@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Swashbuckle.Swagger;
 
 namespace Application
 {
@@ -26,6 +27,8 @@ namespace Application
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddSwaggerGen();
         }
 
         //This method gets called by the runtime.Use this method to configure the HTTP request pipeline.
@@ -36,6 +39,14 @@ namespace Application
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseSwagger();
+
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
+            // specifying the Swagger JSON endpoint.
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Application V1");
+            });
             //app.UseHttpsRedirection();
 
             app.UseRouting();

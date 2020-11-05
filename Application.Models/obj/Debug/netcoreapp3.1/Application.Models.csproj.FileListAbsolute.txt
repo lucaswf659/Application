@@ -6,3 +6,4 @@ C:\Users\Lucas\source\repos\Application\Application.Models\obj\Debug\netcoreapp3
 C:\Users\Lucas\source\repos\Application\Application.Models\obj\Debug\netcoreapp3.1\Application.Models.csproj.CoreCompileInputs.cache
 C:\Users\Lucas\source\repos\Application\Application.Models\obj\Debug\netcoreapp3.1\Application.Models.dll
 C:\Users\Lucas\source\repos\Application\Application.Models\obj\Debug\netcoreapp3.1\Application.Models.pdb
+C:\Users\Lucas\source\repos\Application\Application.Models\obj\Debug\netcoreapp3.1\Application.Models.csprojAssemblyReference.cache
