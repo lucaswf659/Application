@@ -1,0 +1,12 @@
+C:\Users\Lucas\source\repos\Application\Application.Data\bin\Debug\netcoreapp3.1\Application.Data.deps.json
+C:\Users\Lucas\source\repos\Application\Application.Data\bin\Debug\netcoreapp3.1\Application.Data.dll
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Application\Application.Data\bin\Debug\netcoreapp3.1\Application.Data.pdb
+C:\Users\Lucas\source\repos\Application\Application.Data\bin\Debug\netcoreapp3.1\Application.Models.dll
+C:\Users\Lucas\source\repos\Application\Application.Data\bin\Debug\netcoreapp3.1\Application.Models.pdb
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.dll
+C:\Users\Lucas\source\repos\Application\Application.Data\obj\Debug\netcoreapp3.1\Application.Data.pdb

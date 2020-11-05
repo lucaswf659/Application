@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Business.deps.json
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Business.dll
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Business.pdb
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Models.dll
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Models.pdb
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.dll
+C:\Users\Lucas\source\repos\Application\Application.Business\obj\Debug\netcoreapp3.1\Application.Business.pdb
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Data.dll
+C:\Users\Lucas\source\repos\Application\Application.Business\bin\Debug\netcoreapp3.1\Application.Data.pdb
