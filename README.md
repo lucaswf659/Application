@@ -9,7 +9,7 @@ O sistema é uma WebApi compatível com operações HTTP que realiza busca, inse
 
 ### Instalação e Execução
 
-Executar o script ScriptsApplication.sql no SQL Server.  
+Executar o script ScriptApplication.sql no SQL Server.  
 Abrir o arquivo Application.sln no VisualStudio.  
 No projeto "Application.Data", alterar a string de conexão dos métodos. 
 A string de conexão é obtida no SQL Server. 
